@@ -23,7 +23,8 @@
     "@unitools/router": "^0.0.4",
     "lucide-react-native": "^0.378.0",
     "react-hook-form": "^7.51.4",
-    "zod": "^3.23.8"
+    "zod": "^3.23.8",
+    "react-native-svg": "15.6.0"
   },
   "peerDependencies": {
     "react": "^18.2.0",
